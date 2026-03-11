@@ -1,0 +1,30 @@
+{
+    "name": "job-matcher-react",
+    "version": "1.2.0",
+    "description": "Job Matcher extension converted to React",
+    "main": "index.js",
+    "scripts": {
+        "build": "webpack --mode production",
+        "dev": "webpack --mode development --watch",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "pdfjs-dist": "^5.4.624",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "wink-eng-lite-web-model": "^1.8.1",
+        "wink-nlp": "^2.4.0"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.23.0",
+        "@babel/preset-env": "^7.23.0",
+        "@babel/preset-react": "^7.22.0",
+        "babel-loader": "^9.1.0",
+        "copy-webpack-plugin": "^11.0.0",
+        "css-loader": "^6.8.0",
+        "html-webpack-plugin": "^5.5.3",
+        "style-loader": "^3.3.3",
+        "webpack": "^5.88.0",
+        "webpack-cli": "^5.1.0"
+    }
+}
