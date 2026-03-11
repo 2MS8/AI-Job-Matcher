@@ -37,3 +37,6 @@ Thumbs.db
 
 # Optional npm cache
 .npm
+
+#backend folder
+backend/

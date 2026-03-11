@@ -26,7 +26,7 @@ Job Matcher is a powerful, privacy-first Chrome Extension built with **React** a
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/2MS8/AI-Job-Matcher.git
-    cd AI-Job-Matcher
+
     ```
 
 2.  **Install dependencies:**
